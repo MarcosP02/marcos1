@@ -1,0 +1,28 @@
+h1{
+    color: aqua;
+    ;
+}
+p{
+    color: rgb(100, 237, 237);
+}
+.colorParrafo
+{
+color: rgb(42, 44, 165);
+
+}
+
+
+#parrafoColor{
+color: rgb(171, 210, 30);
+
+}
+main p span {
+    color: blueviolet;
+}
+footer{
+    color: rgb(0, 255, 21) ;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxmxP_gorj8Z2i3q25JZt8webzYPZ1wjdfIQ&usqp=CAU);
+    background-repeat: repeat -x, repeat -y;
+}
